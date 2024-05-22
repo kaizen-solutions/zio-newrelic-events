@@ -1,5 +1,8 @@
 # New Relic Events For ZIO
 
+![Maven Central Version](https://img.shields.io/maven-central/v/io.kaizen-solutions/zio-newrelic-events_3)
+[![Continuous Integration](https://github.com/kaizen-solutions/zio-newrelic-events/actions/workflows/ci.yml/badge.svg)](https://github.com/kaizen-solutions/zio-newrelic-events/actions/workflows/ci.yml)
+
 This library allows you to [send custom events to New Relic](https://docs.newrelic.com/docs/data-apis/ingest-apis/event-api/introduction-event-api/#overview) 
 utilizing [ZIO](https://zio.dev).
 
